@@ -1,16 +1,17 @@
 # Economic Indicators in General Aviation
-Maintenance failures occur within many different industries and happen to all different types of products. This can extend from aircraft, automobiles, machinery, and more. Being able to predict when a failure is likely to occur can benefit any company greatly. This project takes synthetic maintenance data to build a machine learning model that can predict when a failure is most likely to happen and why.
+The general aviation industry often fluctuates from year to year. In good years, manufacturers are selling a lot of aircraft but bad years can lead to a number of problems within a business. I wanted to dive into shipment data for general aviation aircraft to see if there are any economic trends that might be a leading indicator for where this industry is headed next.
 # Getting Started
 ## Tools
-•	For this project I used Jupyter Notebooks along with Python 3.10.6
+* Jupyter Notebooks
+* Python 3.10.6
 ## Required Packages
-•	Pandas
-•	Numpy
-•	Imblearn
-•	Sklearn
-•	Scipy
-•	Matplotlib
-•	seaborn
+*	Pandas
+*	Numpy
+*	Imblearn
+*	Sklearn
+*	Scipy
+*	Matplotlib
+*	seaborn
 # Authors
 Sadie Harper
 # Acknowledgments
