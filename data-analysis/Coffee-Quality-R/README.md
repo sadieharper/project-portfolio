@@ -1,4 +1,4 @@
-# Coffee Quality Analysis
+# Coffee Quality EDA
 Using R, this project performs an exploratory data analysis on the coffee quality data that's used in a seperate predictive project.
 # Getting Started
 ## Tools
